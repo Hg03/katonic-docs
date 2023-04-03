@@ -283,7 +283,7 @@ write.csv(validation,'validation.csv',row.names=FALSE)
 
 7. Now pipeline is built and ready. Save the pipeline to run.
 
-### Run Pipeline
+### 1.9 Run Pipeline
 
 In the previous section, we have seen how the generic pipeline and iris flower classification pipeline is built. In this section, you will learn how to run a pipeline in the Kubeflow runtime environment.
 
