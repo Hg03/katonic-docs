@@ -145,7 +145,7 @@ Click [here](https://github.com/katonic-dev/R-Examples.git) for Katonic use case
 
 7. Go to location “/R-Examples/iris_scripts”.
 
-### Creating a Pipeline
+### 1.8 Creating a Pipeline
 
 A pipeline comprises one or more nodes that are (in many cases) connected with each other to define execution dependencies. Each node is implemented by a component and typically performs only a single task, such as loading data, processing data, training a model, evaluating models or prediction.
 
