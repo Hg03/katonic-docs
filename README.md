@@ -14,7 +14,6 @@ Once the admin creates your ID in the respective cluster, you will get your user
 
 Open the login page,set your permanent password and login to try the Katonic platform.
 
-![img1](https://docs.katonic.ai/assets/images/From-Notebook-to-Kubeflow-Pipeline-using-Katonic-Studio-1-2539aaabfd2a22fbd02064da4f8619bb.png)
 
 Enter your email and password, and click on the **“Sign In”** button to sign in to the platform.
 
@@ -22,7 +21,6 @@ Enter your email and password, and click on the **“Sign In”** button to sign
 
 Once you are logged in, you will land to the Dashboard section of the Katonic Platform. You can use the left sidebar to navigate to other sections of the Katonic Platform.
 
-![img2](https://docs.katonic.ai/assets/images/From-R-Notebook-to-Kubeflow-Pipeline-using-Katonic-Studio-30-d6f9df487f7cd75948868c294d9d86bb.png)
 
 1. To view the platform in full screen click on the **“full-screen mode“** on the top right of the page.
 
